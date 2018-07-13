@@ -1,4 +1,4 @@
-var pinyinlite =
+module.exports = pinyinlite =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
